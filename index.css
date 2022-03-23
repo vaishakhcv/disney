@@ -1,0 +1,95 @@
+.offcanvas-header
+{
+padding-bottom: 0;
+}
+.offcanvas-body
+{
+    padding: 0;
+}
+hr
+{
+    margin: 0;
+}
+.navbar
+{
+    justify-content:left
+}
+.nav-link
+{
+    text-decoration: none;
+}
+.offcanvas-top
+{
+    height: fit-content;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-bottom: 30px;
+    
+  }
+  .centered {
+    position: absolute;
+    top: 84%;
+    font-size: 80%;
+    color: black;
+    left : 50%;
+    transform: translate(-50%, -50%);
+  }
+  .tops{
+      background: linear-gradient(white,black);
+      position: absolute;
+      top: 70%;
+  }
+  .tt
+  {
+      color: black;
+      font-weight: 700;
+      font-size: 90%;
+      text-decoration: none;
+      padding-right: 10px;
+  }
+  .img
+  {
+      width: 25px;
+      margin: 7px;
+  }
+  body{
+      margin: 0;
+  }
+.tail
+{
+    font-size: 13px;
+text-align: center;
+margin-top: 20px;
+margin-bottom: 25px;
+}
+.cont
+{
+    padding-top: 20px;
+}
+.navi-link
+{
+    text-decoration: none;
+    color: black;
+    font-weight: 650;
+    font-size: 13px;
+}
+ 
+  @media screen and (max-width:576px) {
+.uls{
+    display: block !important;
+}
+
+  }
+ 
+@media (min-width:768px) {
+  
+    
+.test{
+text-align: left;
+}
+
+
+  }
