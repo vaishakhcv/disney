@@ -22,9 +22,9 @@ justify-content: center;
 {
     padding-top: 20px;
     text-align: center;
-    font-size: 150%;
+    font-size: 120%;
     font-weight: 600;
-    color:rgb(4, 107, 167) ;
+    color:rgb(48, 152, 212) ;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .forms
@@ -37,7 +37,15 @@ padding-left: 10%;
     margin-top:10px ;
     margin-bottom: 10px;
     border-radius: 4px;
-    height: 35px;
+    height: 38px;
     border-width: 1px;
     border: 1px solid;
+    font-size: 15px;
+}
+.btns
+{
+    background: white;
+    border-color: rgb(7, 158, 196);
+    color: rgb(7, 158, 196);
+    font-weight: 600;
 }
