@@ -4,7 +4,8 @@
 }
 .cont
 {
-    width: 500px;
+    width: 100%;
+    max-width: 500px;
     border: solid 2px;
     margin: auto;
     border-radius: 20px;
