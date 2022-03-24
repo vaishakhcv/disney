@@ -1,0 +1,43 @@
+.main-body
+{
+    width: 100%;    
+}
+.cont
+{
+    width: 500px;
+    border: solid 2px;
+    margin: auto;
+    border-radius: 20px;
+}
+.img
+{
+    width: 40%;
+}
+.img-div
+{
+display: flex;
+justify-content: center;
+}
+.acc
+{
+    padding-top: 20px;
+    text-align: center;
+    font-size: 150%;
+    font-weight: 600;
+    color:rgb(4, 107, 167) ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.forms
+{
+padding-left: 10%;
+}
+.box
+{
+    width: 90%;
+    margin-top:10px ;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    height: 35px;
+    border-width: 1px;
+    border: 1px solid;
+}
